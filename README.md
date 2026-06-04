@@ -1,2 +1,2 @@
 # DynamicLib
-Dynamic Library is a custom fork of (obsidian)[https://github.com/deividcomsono/Obsidian] made for Dynamic Hub.
+Dynamic Library is a custom fork of [Obsidian](https://github.com/deividcomsono/Obsidian) made for Dynamic Hub.
